@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Pranavs05/myp/static/css/main.5b39e0f2.chunk.css",
-    "main.js": "/Pranavs05/myp/static/js/main.7567cff9.chunk.js",
-    "main.js.map": "/Pranavs05/myp/static/js/main.7567cff9.chunk.js.map",
-    "runtime-main.js": "/Pranavs05/myp/static/js/runtime-main.6e02c33f.js",
-    "runtime-main.js.map": "/Pranavs05/myp/static/js/runtime-main.6e02c33f.js.map",
-    "static/css/2.e4346227.chunk.css": "/Pranavs05/myp/static/css/2.e4346227.chunk.css",
-    "static/js/2.a1cd7cfa.chunk.js": "/Pranavs05/myp/static/js/2.a1cd7cfa.chunk.js",
-    "static/js/2.a1cd7cfa.chunk.js.map": "/Pranavs05/myp/static/js/2.a1cd7cfa.chunk.js.map",
-    "index.html": "/Pranavs05/myp/index.html",
-    "precache-manifest.b3d41cfc3e7dfafaa946055287a7512b.js": "/Pranavs05/myp/precache-manifest.b3d41cfc3e7dfafaa946055287a7512b.js",
-    "service-worker.js": "/Pranavs05/myp/service-worker.js",
-    "static/css/2.e4346227.chunk.css.map": "/Pranavs05/myp/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.5b39e0f2.chunk.css.map": "/Pranavs05/myp/static/css/main.5b39e0f2.chunk.css.map",
-    "static/js/2.a1cd7cfa.chunk.js.LICENSE.txt": "/Pranavs05/myp/static/js/2.a1cd7cfa.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Pranavs05/myp/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Pranavs05/myp.io/static/css/main.5b39e0f2.chunk.css",
+    "main.js": "/Pranavs05/myp.io/static/js/main.299e4d4f.chunk.js",
+    "main.js.map": "/Pranavs05/myp.io/static/js/main.299e4d4f.chunk.js.map",
+    "runtime-main.js": "/Pranavs05/myp.io/static/js/runtime-main.b9c490c3.js",
+    "runtime-main.js.map": "/Pranavs05/myp.io/static/js/runtime-main.b9c490c3.js.map",
+    "static/css/2.e4346227.chunk.css": "/Pranavs05/myp.io/static/css/2.e4346227.chunk.css",
+    "static/js/2.a1cd7cfa.chunk.js": "/Pranavs05/myp.io/static/js/2.a1cd7cfa.chunk.js",
+    "static/js/2.a1cd7cfa.chunk.js.map": "/Pranavs05/myp.io/static/js/2.a1cd7cfa.chunk.js.map",
+    "index.html": "/Pranavs05/myp.io/index.html",
+    "precache-manifest.0b45919643051d1e5a7ade2023bdc837.js": "/Pranavs05/myp.io/precache-manifest.0b45919643051d1e5a7ade2023bdc837.js",
+    "service-worker.js": "/Pranavs05/myp.io/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/Pranavs05/myp.io/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.5b39e0f2.chunk.css.map": "/Pranavs05/myp.io/static/css/main.5b39e0f2.chunk.css.map",
+    "static/js/2.a1cd7cfa.chunk.js.LICENSE.txt": "/Pranavs05/myp.io/static/js/2.a1cd7cfa.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Pranavs05/myp.io/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6e02c33f.js",
+    "static/js/runtime-main.b9c490c3.js",
     "static/css/2.e4346227.chunk.css",
     "static/js/2.a1cd7cfa.chunk.js",
     "static/css/main.5b39e0f2.chunk.css",
-    "static/js/main.7567cff9.chunk.js"
+    "static/js/main.299e4d4f.chunk.js"
   ]
 }
